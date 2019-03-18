@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">LoginSampleRetrofit</string>
+    <string name="hint_email">Enter email address</string>
+    <string name="hint_password">Enter Password</string>
+    <string name="btn_login">Login</string>
+    <string name="hint_contact">Enter mobile no</string>
+    <string name="btn_signup">SignUp</string>
+    <string name="reg_error_email">Please enter email</string>
+</resources>
